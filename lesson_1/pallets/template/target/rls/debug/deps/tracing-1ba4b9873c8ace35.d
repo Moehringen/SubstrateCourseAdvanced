@@ -1,0 +1,13 @@
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/tracing-1ba4b9873c8ace35.rmeta: /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/lib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/macros.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/dispatcher.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/field.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/instrument.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/level_filters.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/span.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/stdlib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/subscriber.rs
+
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/tracing-1ba4b9873c8ace35.d: /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/lib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/macros.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/dispatcher.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/field.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/instrument.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/level_filters.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/span.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/stdlib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/subscriber.rs
+
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/lib.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/macros.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/dispatcher.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/field.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/instrument.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/level_filters.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/span.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/stdlib.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.26/src/subscriber.rs:

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/build/typenum-45de5b3ad8e01686/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/build/typenum-45de5b3ad8e01686/out/op.rs

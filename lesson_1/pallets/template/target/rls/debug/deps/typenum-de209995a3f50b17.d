@@ -1,0 +1,18 @@
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/typenum-de209995a3f50b17.rmeta: /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/lib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/bit.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/int.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/marker_traits.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/operator_aliases.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/private.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/type_operators.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/uint.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/array.rs /Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/build/typenum-45de5b3ad8e01686/out/op.rs /Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/build/typenum-45de5b3ad8e01686/out/consts.rs
+
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/typenum-de209995a3f50b17.d: /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/lib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/bit.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/int.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/marker_traits.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/operator_aliases.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/private.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/type_operators.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/uint.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/array.rs /Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/build/typenum-45de5b3ad8e01686/out/op.rs /Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/build/typenum-45de5b3ad8e01686/out/consts.rs
+
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/lib.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/bit.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/int.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/marker_traits.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/operator_aliases.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/private.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/type_operators.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/uint.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.13.0/src/array.rs:
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/build/typenum-45de5b3ad8e01686/out/op.rs:
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/build/typenum-45de5b3ad8e01686/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/build/typenum-45de5b3ad8e01686/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/build/typenum-45de5b3ad8e01686/out/op.rs

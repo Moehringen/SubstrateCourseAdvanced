@@ -1,0 +1,10 @@
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/sp_trie-262e37162dfd5c06.rmeta: /Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/lib.rs /Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/error.rs /Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/node_header.rs /Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/node_codec.rs /Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/storage_proof.rs /Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/trie_stream.rs
+
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/sp_trie-262e37162dfd5c06.d: /Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/lib.rs /Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/error.rs /Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/node_header.rs /Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/node_codec.rs /Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/storage_proof.rs /Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/trie_stream.rs
+
+/Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/lib.rs:
+/Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/error.rs:
+/Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/node_header.rs:
+/Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/node_codec.rs:
+/Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/storage_proof.rs:
+/Users/hao/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/trie/src/trie_stream.rs:

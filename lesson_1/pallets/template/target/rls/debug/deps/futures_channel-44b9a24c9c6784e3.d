@@ -1,0 +1,10 @@
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/futures_channel-44b9a24c9c6784e3.rmeta: /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lock.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/mod.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/queue.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/sink_impl.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/oneshot.rs
+
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/futures_channel-44b9a24c9c6784e3.d: /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lock.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/mod.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/queue.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/sink_impl.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/oneshot.rs
+
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lib.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lock.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/mod.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/queue.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/sink_impl.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/oneshot.rs:

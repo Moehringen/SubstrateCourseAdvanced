@@ -1,0 +1,11 @@
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/futures_task-54a029353a0d36a1.rmeta: /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/lib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/spawn.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/arc_wake.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/waker.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/waker_ref.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/future_obj.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/noop_waker.rs
+
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/futures_task-54a029353a0d36a1.d: /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/lib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/spawn.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/arc_wake.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/waker.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/waker_ref.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/future_obj.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/noop_waker.rs
+
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/lib.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/spawn.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/arc_wake.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/waker.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/waker_ref.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/future_obj.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/noop_waker.rs:

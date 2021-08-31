@@ -1,0 +1,13 @@
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/quote-6aebadbbb6171f38.rmeta: /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/libquote-6aebadbbb6171f38.rlib: /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/Users/hao/Code/substrate/course/lesson_1/pallets/template/target/rls/debug/deps/quote-6aebadbbb6171f38.d: /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs:
+/Users/hao/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs:
